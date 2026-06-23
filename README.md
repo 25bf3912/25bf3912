@@ -1,16 +1,15 @@
-## Hi there 👋
+### <underline> Currently working on: </underline>
+[MENACE.NET](https://github.com/25bf3912/MENACE.NET) - An implementation of Donald Michie's Matchbox Educable Noughts And Crosses Engine, exploring reinforcement learning. 
 
-<!--
-**25bf3912/25bf3912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <underline> Favorite project: </underline>
+[Discontinued] [TRON](https://github.com/25bf3912/TRON) - A 2.5D raycasting engine that procedurally generates a new maze layout on startup each time, rendering the environment in the console at 60fps. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
