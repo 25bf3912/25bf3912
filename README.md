@@ -10,3 +10,7 @@
 [Discontinued] [Custom Console](https://github.com/25bf3912/CustomConsoleLibrary) - C# library designed to bypass standard terminal bottlenecks and unlock graphics capability within the terminal. 
 
 [Discontinued] [Lagless Keyboard Input](https://github.com/25bf3912/LaglessKeyboardInputLibrary) - C# library designed to bypass standard terminal input lag and handle real-time input tracking within the terminal. 
+
+[Discontinued] [Psuedorandom Number Generator](https://github.com/25bf3912/Pseudorandom-Number-Generator) - C# library for a psuedorandom number generator.
+
+[Discontinued] [Flappy Bird](https://github.com/25bf3912/Flappy-Bird) - A Flappy Bird clone made in WinForms.
