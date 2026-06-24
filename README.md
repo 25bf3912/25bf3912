@@ -2,7 +2,7 @@
 [MENACE.NET](https://github.com/25bf3912/MENACE.NET) - An implementation of Donald Michie's Matchbox Educable Noughts And Crosses Engine, exploring reinforcement learning. 
 
 ## Favorite projects:
-[Discontinued] [TRON](https://github.com/25bf3912/TRON) - A 2.5D raycasting engine that procedurally generates a new maze layout on startup each time, rendering the environment in the console at 60fps. 
+[Discontinued] [TRON](https://github.com/25bf3912/TRON) - A 2.5D raycasting-based game that procedurally generates a new maze layout on startup each time, rendering the environment in the console at 60fps at ~900 char width.
 
 [Discontinued] [The Book of Monsters](https://github.com/25bf3912/TheBookofMonsters) - A text based narrative/arcade adventure game, inspired by undertale. 
 
