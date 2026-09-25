@@ -1,3 +1,3 @@
 # Hi There 👋
 
-This is my school GitHub, my personal GitHub is https://github.com/benjaminfberger
+This is my school GitHub. Check out my personal GitHub at https://github.com/benjaminfberger
